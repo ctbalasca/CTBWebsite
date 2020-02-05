@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "Language Skills- Romanian & Spanish"
+  name = "Language: Romanian & Spanish"
   # description = "10%"
 
   [[feature]]
