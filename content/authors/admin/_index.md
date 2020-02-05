@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate
+role: Graduate Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,11 @@ organizations:
 
 interests:
 - Health
+- Migration/Immigration
 - Race
 - Inequality
-- Migration/Immigration
 - Stratification
 - Gender
-- Inequality
 - Family
 
 education:
