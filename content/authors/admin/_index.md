@@ -81,9 +81,9 @@ user_groups:
 - Visitors
 ---
 
-Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at The Ohio State University](https://sociology.osu.edu). She is a graduate affiliate of the [Institute for Population Research](https://ipr.osu.edu) and research assistant at the [Center for Human Resource Research](https://chrr.osu.edu). 
+Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at The Ohio State University](https://sociology.osu.edu.) She is a graduate affiliate of the [Institute for Population Research](https://ipr.osu.edu) and research assistant at the [Center for Human Resource Research](https://chrr.osu.edu.) 
 
 Her projects include work with the New Immigrant Survey (NIS),  Ohio Medicaid Assessment Survey (OMAS), Ohio Attorney General’s Government Resource Database (NGO listings), and behind the scenes work on the National Longitudinal Survey of Youth (NLSY). 
 
-She is advised by [Reanne Frank](https://sociology.osu.edu/people/frank.219). 
+She is advised by [Reanne Frank](https://sociology.osu.edu/people/frank.219.) 
 
