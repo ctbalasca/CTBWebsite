@@ -38,4 +38,17 @@ subtitle = ""
   name = "SAS"
   # description = "10%"
 
+  [[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Research Teamwork"
+  # description = "10%"
+
+ [[feature]]
+  icon = "mug-hot"
+  icon_pack = "fas"
+  name = "Coffee Addict"
+  # description = "10%"
+
+
 +++
