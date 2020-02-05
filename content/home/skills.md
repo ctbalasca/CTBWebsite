@@ -41,7 +41,7 @@ subtitle = ""
   [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Research Teamwork"
+  name = "Research Team Work"
   # description = "10%"
 
  [[feature]]
