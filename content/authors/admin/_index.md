@@ -39,10 +39,10 @@ education:
     year: 2019
   - course: BA in Sociology
     institution: Furman University
-    year: 2012
+    year: 2016
   - course: BA in Biology
     institution: Furman University 
-    year: 2012
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
