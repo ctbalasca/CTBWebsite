@@ -51,7 +51,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:balasca.1@osu.edu'  # For a direct email link, use "mailto:test@example.org".
+#link: '#contact'  # For a direct email link, use "mailto:test@example.org" which I did above, it not use just #contact to link to contact portion or webpage
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
