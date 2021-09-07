@@ -82,7 +82,7 @@ user_groups:
 
 Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at The Ohio State University.](https://sociology.osu.edu/people/balasca.1) She is a graduate affiliate of the [Institute for Population Research](https://ipr.osu.edu/people/balasca.1) and research assistant at the [Center for Human Resource Research.](https://chrr.osu.edu) 
 
-Her projects include work with the New Immigrant Survey (NIS),  Ohio Medicaid Assessment Survey (OMAS), Ohio Attorney General’s Government Resource Database (NGO listings), behind the scenes work on the National Longitudinal Survey of Youth (NLSY), and survey design work on the American Population Panel. 
+Her projects include work with the New Immigrant Survey (NIS),  Ohio Medicaid Assessment Survey (OMAS), Ohio Attorney General’s Government Resource Database (NGO listings), behind the scenes work on the National Longitudinal Survey of Youth (NLSY), and survey design work on the American Population Panel (APP). 
 
 Coralia is also working on four projects through the [Ohio State College of Public Health](https://cph.osu.edu) three dealing with the [health impacts of COVID-19](https://u.osu.edu/covid19vulnerablepopulations/) and the fourth centered on [racial disparities in cancer.](https://cancer.osu.edu/for-cancer-researchers/research/research-labs/padamsee-lab/daughter-sister-mother-project)
 
