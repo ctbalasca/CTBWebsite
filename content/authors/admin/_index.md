@@ -32,8 +32,8 @@ interests:
 - Family
 
 education:
-  courses:
- - course: PhD in Sociology
+ # courses:
+  - course: PhD in Sociology
     institution: The Ohio State University 
     year: est. May 2023
   - course: MA in Sociology 
