@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Fellow
+role: Presidential Graduate Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,9 @@ organizations:
 interests:
 - Health
 - Migration/Immigration
+- Social Ties
 - Race
+- Transnationalism
 - Inequality
 - Stratification
 - Gender
@@ -31,9 +33,9 @@ interests:
 
 education:
   courses:
- # - course: PhD in Sociology
- #   institution: The Ohio State University 
-  #  year: 2023
+ - course: PhD in Sociology
+    institution: The Ohio State University 
+    year: est. May 2023
   - course: MA in Sociology 
     institution: The Ohio State University 
     year: 2019
@@ -81,11 +83,13 @@ user_groups:
 - Visitors
 ---
 
-Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at The Ohio State University.](https://sociology.osu.edu/people/balasca.1) She is a graduate affiliate of the [Institute for Population Research](https://ipr.osu.edu/people/balasca.1) and research assistant at the [Center for Human Resource Research.](https://chrr.osu.edu) 
+Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at The Ohio State University,](https://sociology.osu.edu/people/balasca.1) and a [Presidential Fellow.](https://gradsch.osu.edu/presidential-fellowship) She is a graduate affiliate of the [Institute for Population Research](https://ipr.osu.edu/people/balasca.1) and a former research assistant at the [Center for Human Resource Research.](https://chrr.osu.edu) 
 
-Her projects include work with the New Immigrant Survey (NIS),  Ohio Medicaid Assessment Survey (OMAS), Ohio Attorney General’s Government Resource Database (NGO listings), behind the scenes work on the National Longitudinal Survey of Youth (NLSY), and survey design work on the American Population Panel (APP). 
+Her projects include work with the New Immigrant Survey (NIS), Ohio Medicaid Assessment Survey (OMAS), Ohio Attorney General’s Government Resource Database (NGO listings), behind the scenes work on the [National Longitudinal Survey of Youth (NLSY),](https://www.bls.gov/nls/nlsy79.htm) and survey design and recruitment work on the American [Population Panel (APP).](https://americanpopulationpanel.org/social-media-site/about)
 
-Coralia is also working on four projects through the [Ohio State College of Public Health](https://cph.osu.edu) three dealing with the [health impacts of COVID-19](https://u.osu.edu/covid19vulnerablepopulations/) and the fourth centered on [racial disparities in cancer.](https://cancer.osu.edu/for-cancer-researchers/research/research-labs/padamsee-lab/daughter-sister-mother-project)
+Coralia is a mixed method (quantitative and qualtiative) researchers. He dissertation work focuses on the role of social ties in immigrant health. In order to address her research questions, she is developing 2 surveys to collect data from the American Population Panel, and recruiting immigrants for semi-structured interviews. 
+
+She is also working on four projects through the [Ohio State College of Public Health](https://cph.osu.edu) three dealing with the [health impacts of COVID-19](https://u.osu.edu/covid19vulnerablepopulations/) and the fourth centered on [racial disparities in cancer.](https://cancer.osu.edu/for-cancer-researchers/research/research-labs/padamsee-lab/daughter-sister-mother-project)
 
 She is advised by [Reanne Frank.](https://sociology.osu.edu/people/frank.219)
 
