@@ -77,9 +77,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at The Ohio State University,](https://sociology.osu.edu/people/balasca.1) and a [Presidential Fellow.](https://gradsch.osu.edu/presidential-fellowship) She is a graduate affiliate of the [Institute for Population Research](https://ipr.osu.edu/people/balasca.1) and a former research assistant at the [Center for Human Resource Research.](https://chrr.osu.edu) 
