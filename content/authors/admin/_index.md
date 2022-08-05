@@ -26,8 +26,7 @@ interests:
 - Social Ties
 - Race
 - Transnationalism
-- Inequality
-- Stratification
+- Stratification/Inequality
 - Gender
 - Family
 
@@ -35,7 +34,7 @@ education:
  # courses:
   - course: PhD in Sociology
     institution: The Ohio State University 
-    year: est. May 2023
+    year: "est. May 2023"
   - course: MA in Sociology 
     institution: The Ohio State University 
     year: 2019
