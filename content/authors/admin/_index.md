@@ -30,8 +30,8 @@ interests:
 - Gender
 - Family
 
-education:
- # courses:
+# education:
+courses:
 - course: PhD in Sociology
   institution: The Ohio State University 
   year: 2023
