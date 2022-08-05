@@ -86,9 +86,9 @@ Coralia T. Balasca is a graduate affiliate of the [Department of Sociology at Th
 
 Her projects include work with the New Immigrant Survey (NIS), Ohio Medicaid Assessment Survey (OMAS), National Health and Nutirtion Examination Survey (NHANES), Ohio Attorney General’s Government Resource Database (NGO listings), behind the scenes work on the [National Longitudinal Survey of Youth (NLSY),](https://www.bls.gov/nls/nlsy79.htm) and survey design and recruitment work on the American [Population Panel (APP).](https://americanpopulationpanel.org/social-media-site/about)
 
-Coralia is a mixed method (quantitative and qualtiative) researchers. Her dissertation work focuses on the role of social ties in immigrant health. In order to address her research questions, she is developing 2 surveys to collect original data through the American Population Panel, and recruiting immigrants for semi-structured interviews. 
+Coralia is a mixed method (quantitative and qualtiative) researcher. Her dissertation work focuses on the role of social ties in immigrant health. In order to address her research questions, she is developing 2 surveys to collect original data through the American Population Panel, and recruiting immigrants for semi-structured interviews. 
 
-She is also working on four projects through the [Ohio State College of Public Health](https://cph.osu.edu) three dealing with the [health impacts of COVID-19](https://u.osu.edu/covid19vulnerablepopulations/) and the fourth centered on [racial disparities in cancer.](https://cancer.osu.edu/for-cancer-researchers/research/research-labs/padamsee-lab/daughter-sister-mother-project)
+She is also working on four projects through the [Ohio State College of Public Health](https://cph.osu.edu); three dealing with the [health impacts of COVID-19](https://u.osu.edu/covid19vulnerablepopulations/) and the fourth centered on [racial disparities in cancer.](https://cancer.osu.edu/for-cancer-researchers/research/research-labs/padamsee-lab/daughter-sister-mother-project)
 
 She is advised by [Reanne Frank.](https://sociology.osu.edu/people/frank.219)
 
