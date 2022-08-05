@@ -27,25 +27,25 @@ subtitle = ""
   name = "Language: Romanian & Spanish"
   # description = "10%"
 
-  [[feature]]
+[[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "SAS"
   # description = "10%"
 
-  [[feature]]
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   # description = "90%"
 
-  [[feature]]
+[[feature]]
   icon = "users"
   icon_pack = "fas"
   name = "Research Team Work"
   # description = "10%"
 
- [[feature]]
+[[feature]]
   icon = "mug-hot"
   icon_pack = "fas"
   name = "Coffee Addict"
